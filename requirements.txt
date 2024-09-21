@@ -1,0 +1,18 @@
+Flask
+PyMuPDF
+pdfplumber
+transformers
+arabic_reshaper
+python-bidi
+matplotlib
+reportlab
+fpdf2
+spacy
+camel-tools
+sentence-transformers
+PyPDF2
+stanza
+langdetect
+datasets
+nltk
+torch  # Required for transformers
